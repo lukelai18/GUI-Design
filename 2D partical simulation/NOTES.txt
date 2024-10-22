@@ -1,0 +1,3 @@
+Students can use this file to add any notes or comments related to 
+the assignment and its solution.
+==================================================================
